@@ -47,4 +47,5 @@ func main() {
 	zqChain.Chain[3].ComputeHash()
 	fmt.Println(zqChain.Validate())
 	// zqChain.ShowChain()
+	
 }
