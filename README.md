@@ -4,7 +4,7 @@
 
 ----
 ## 2020.02.17
->- 新建一个transaction数据结构用于记录转账信息
+>- 新建一个transaction数据结构用于记录转账信息 
 
 >- 将Block中的Data信息替换为transaction数据
 >- Block中增加timestamp
